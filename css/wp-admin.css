@@ -1,0 +1,32 @@
+.img_logo_cookiespro {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    width: auto;
+    height: auto;
+}
+.img_banner_pixelpro {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    width: auto;
+    height: auto;
+    margin-left: 36px;
+}
+.cookies_pro_wrap {
+	margin-left: 40px;
+}
+.cookies_pro_wrap textarea {
+    width: 30%;
+}
+.cookies_pro_wrap input[type="text"] {
+    width: 30%;
+    padding: 8px;
+}
+.warning {
+	display: none;
+}
+.success_msg {
+	display: none;
+}
+.wp-menu-image > img {
+    margin-top: -2px;
+}
